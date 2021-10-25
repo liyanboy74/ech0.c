@@ -1,4 +1,4 @@
-## Simple echo text file in terminal
+## Echo text file in terminal
 ```
 make
 make install
