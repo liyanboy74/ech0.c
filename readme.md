@@ -3,3 +3,4 @@
 make
 make install
 ```
+ech0 `FILENAME`
