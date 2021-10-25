@@ -3,3 +3,6 @@ default:
 
 install:
 	sudo cp ech0 /usr/local/bin
+
+clean:
+	rm ech0
