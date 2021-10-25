@@ -2,5 +2,5 @@
 ```
 make
 make install
+ech0 FILE_NAME
 ```
-ech0 `FILENAME`
