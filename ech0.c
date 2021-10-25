@@ -3,7 +3,7 @@
 int main(int argc,char* argv[])
 {
     FILE *fp;
-    char buff[1024];
+    char buff[SIZE_OF_BUFFER];
     size_t s,i=0;;
     int j;
     for(j=1;j<argc;j++)
