@@ -4,7 +4,7 @@ int main(int argc,char* argv[])
 {
     FILE *fp;
     char buff[SIZE_OF_BUFFER];
-    size_t s,i=0;;
+    size_t s,i;;
     int j;
     for(j=1;j<argc;j++)
     {
